@@ -1,7 +1,7 @@
 # phishing-Simulation
 Humans are one of the most vulnerable parts of cyber security so I created a phishing Simulation Campaign using Wizer to deliver cyber security awareness training.
 
-- Attacker will do reconnaissance on sites like Linkedin or use osint tools to find the name, job, title and position of Authority within a company.
+- Attathreat actors will do reconnaissance on sites like Linkedin or use osint tools to find the name, job, title, and position of Authority within a company.
 
 - created a custom phishing email that exploits the employee's sense of urgency, trust, and Greed. 
 
